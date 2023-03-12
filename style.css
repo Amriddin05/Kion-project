@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-padding {
+    padding: 20px 80px;
+}
+
+.main {
+    width: 100vw;
+    overflow-x: hidden;
+    /* background-color: aqua; */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    /* background-color: aqua; */
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    color: #40494D;
+}
+
+.list {
+    display: flex;
+    gap: 80px;
+    list-style: none;
+    font-size: 16px;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.btn-class {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    padding: 16px 25px;
+    background-color: #283337;
+    color: #fff;
+    border-radius: 60px;
+}
+
+.complete {
+    background-color: #F3F7F4;
+    padding-top: 140px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.text-comp {
+    font-size: 60px;
+}
+
+.small-comp {
+    font-size: 21px;
+    margin: 40px 0 25px 0;
+}
+
+/* 2-dars style boshlandi */
+
+.img-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+    background-color: #F3F7F4;
+}
+
+.product {
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    padding: 80px 74px;
+}
+
+.product-text {
+
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 1px;
+    color: #283337;
+}
+
+.offers {
+    width: 363px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 17px;
+    color: #40494D;
+    margin: 30px 0;
+}
+
+.automation {
+    width: 560px;
+    height: 548px;
+    background-color: #F3F7F4;
+    border-radius: 6px;
+    padding: 80px;
+}
+
+.automation-text1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 34px;
+    color: #283337;
+    margin: 50px 0;
+}
+
+.automation-text2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #40494D;
+}
+
+.result {
+    padding: 170px 150px;
+    background-color: #F3F7F4;
+}
+
+.result-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.result-head {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    color: #283337;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 60px;
+}
+
+.size {
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 70px;
+    color: #283337;
+    text-align: center;
+}
+
+.size-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #40494D;
+}
+
+/* 2-dars style tugadi */
+
+/* 3-dars style boshlandi */
+
+
+.kion {
+    padding: 140px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.differences {
+    display: flex;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    color: #283337;
+}
+
+.deliver {
+    display: flex;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #40494D;
+    margin: 40px 0 26px 0;
+}
+
+.our {
+    display: flex;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    padding: 15px 0;
+    color: #283337;
+}
+
+.access {
+    display: flex;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #40494D;
+    padding: 5px 0;
+    margin-left: 1rem;
+}
+
+.more {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 6px;
+    color: #40494D;
+    padding: 5px 0;
+    margin-top: 24px;
+}
+.card-kion {
+    width: 640px;
+    height: 360px;
+    border-radius: 6px;
+    background-color: #F3F7F4;
+}
+
+/* 3-dars style tugadi */
